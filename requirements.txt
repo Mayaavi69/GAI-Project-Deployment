@@ -1,0 +1,7 @@
+# List other required packages here
+streamlit
+pandas
+numpy
+matplotlib.pyplot 
+seaborn
+plotly.express
