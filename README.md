@@ -1,5 +1,4 @@
 # GAI-Project-Deployment
-A Repository to deploy my projects
 
 GAI.ipnyb file contains all the necessary steps done on google colab related to this project. Also a visual dipiction of the dataset for insights have been deployed through a streamlit dashboard
 the following project has also been deployed through streamlit 
