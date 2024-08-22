@@ -9,3 +9,8 @@ If the following error shows
 Error loading data: Error tokenizing data. C error: Expected 1 fields in line 40, saw 26
 
 download Applicant_details.csv from repository and upload it to the dashboard. 
+
+Contributers:
+    321148	Aashit Sharma
+    45049	  Sakshi Mittal
+    45054	  Swati Bhalla
