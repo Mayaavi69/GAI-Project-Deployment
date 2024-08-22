@@ -38,7 +38,7 @@ def load_data(file=None, default_path=None):
         return None
 
 # Path to the default file
-default_file_path = r"https://github.com/Mayaavi69/GAI-Project-Deployment/blob/main/Applicant_details.csv"
+default_file_path = r"https://github.com/Mayaavi69/GAI-Project-Deployment/blob/72d15e68557af712ec58d790ae098695c22b1e23/Applicant_details.csv"
 
 # Check if user uploaded a file or use the default file
 if file is not None:
