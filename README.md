@@ -49,6 +49,6 @@ The notebook concludes with interpretations of the visualizations and model resu
 
 
 Contributers:
-    321148	Aashit Sharma
-    45049	  Sakshi Mittal
-    45054	  Swati Bhalla
+321148	  Aashit Sharma
+45049	  Sakshi Mittal
+45054	  Swati Bhalla
